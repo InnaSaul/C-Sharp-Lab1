@@ -8,33 +8,34 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int MaxSequence = 0;
-            int CurrentSequence;
+            int CurrentSequence=0;
             int MaxSequenceNumber = 0;
-            int CurrentSequenceNumber;
-            int FinalSequenceNumber = 1000000;
+            long CurrentSequenceNumber;
+            int FinalSequenceNumber = 27;
             for (var i = 2; i <= FinalSequenceNumber; i++)
             {
                 CurrentSequenceNumber = i;
-                CurrentSequence = 0;
+                
                 while (CurrentSequenceNumber != 1)
                 {
+                    CurrentSequence++;
                     if (CurrentSequenceNumber % 2 == 0)
                     {
                         CurrentSequenceNumber = CurrentSequenceNumber/2;
                     }
                     else
                     {
-                        CurrentSequenceNumber = ((3 * CurrentSequenceNumber) + 1) / 2;
+                        CurrentSequenceNumber = (3 * CurrentSequenceNumber + 1) ;
                     }
-                    CurrentSequence++;
+                    //CurrentSequence++;
                 }
                     if (CurrentSequence > MaxSequence)
                     {
                         MaxSequence = CurrentSequence;
                         MaxSequenceNumber = i;
                     }
+                CurrentSequence = 0;
             }
-            Console.WriteLine("Наибольшую последовательность Коллатца = " + MaxSequence + " Имеет число = " + MaxSequenceNumber);
             Console.WriteLine("Наибольшую последовательность Коллатца = " + MaxSequence + " Имеет число = " + MaxSequenceNumber);
         }
     }

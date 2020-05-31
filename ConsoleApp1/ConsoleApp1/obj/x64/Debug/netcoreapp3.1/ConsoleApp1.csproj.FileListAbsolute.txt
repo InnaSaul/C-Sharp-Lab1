@@ -11,3 +11,16 @@ C:\Users\Владелец\source\repos\ConsoleApp1\ConsoleApp1\obj\x64\Debug\net
 C:\Users\Владелец\source\repos\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\Владелец\source\repos\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\Владелец\source\repos\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\bin\x64\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\MyProjects\C-Sharp-Lab1\ConsoleApp1\ConsoleApp1\obj\x64\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
