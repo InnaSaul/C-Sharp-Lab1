@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWnoCIXyzBcCnKyKNDms58GOzkcJFEh+tTTDSNSlwW8HErDhcadA1LFs46sFpKMAM0WjPlPP7NBeJ5+/d/OrDA==",
+  "dgSpecHash": "vq9js+wyB1/AF8bUhDdrFK/tsfpEHf6F6XZrYx+7Gs2CLqGOYltWb85NLlIpvk5PCyXE3l2MM3dhdlRj5wmp+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Владелец\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "F:\\MyProjects\\C-Sharp-Lab1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Владелец\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

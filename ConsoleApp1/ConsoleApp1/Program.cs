@@ -34,7 +34,7 @@ namespace ConsoleApp1
                         MaxSequenceNumber = i;
                     }
             }
-            Console.WriteLine("Наибольшую последовательность Коллатца = " + MaxSequence + " Имеет число = " + MaxSequenceNumber);
+            Console.WriteLine("Наибольшую последовательность Коллатца =" + MaxSequence + "\n" + "Имеет число = " + MaxSequenceNumber);
         }
     }
 }
